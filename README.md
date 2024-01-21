@@ -6,15 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/chetank24889440" target="blank"><img src="https://img.shields.io/twitter/follow/chetank24889440?logo=twitter&style=for-the-badge" alt="chetank24889440" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js/Express.js/MongoDB**
-
-- 👯 I’m looking to collaborate on **WEB Development/Frontend**
-
-- 💬 Ask me about **JavaScript/Java/DSA/Frontend web**
-
 - 📫 How to reach me **dropmailtochetan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LT_GmJgQRic-rke68Ixi_lo2b8yxrgw2pSMK6RrucZw/edit](https://docs.google.com/document/d/1LT_GmJgQRic-rke68Ixi_lo2b8yxrgw2pSMK6RrucZw/edit)
+- 📄 Know about my experiences [ https://docs.google.com/document/d/14B_-HCfsxdt-brUigZkGhsJY854t6Kgp6umpKwIlGlk/edit?usp=sharing](https://docs.google.com/document/d/1LT_GmJgQRic-rke68Ixi_lo2b8yxrgw2pSMK6RrucZw/edit)
 
 
 <h3 align="left">Languages and Tools:</h3>
